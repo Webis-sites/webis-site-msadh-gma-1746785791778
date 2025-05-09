@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-05-09T10:21:41.542Z",
+  "timestamp": "2025-05-09T10:22:31.926Z",
   "status": {
     "totalComponents": 10,
-    "completedComponents": 6,
+    "completedComponents": 7,
     "failedComponents": 0,
-    "progress": 60
+    "progress": 70
   },
   "components": [
     {
@@ -46,7 +46,7 @@
     {
       "name": "GallerySection",
       "type": "gallery",
-      "status": "pending",
+      "status": "completed",
       "description": "Visual showcase of the restaurant's atmosphere, dishes and events"
     },
     {
