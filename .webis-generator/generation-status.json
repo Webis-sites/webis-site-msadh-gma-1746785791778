@@ -1,11 +1,72 @@
 {
-  "timestamp": "2025-05-09T10:17:24.722Z",
+  "timestamp": "2025-05-09T10:18:11.932Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 10,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Layout",
+      "type": "layout",
+      "status": "pending",
+      "description": "Root layout component with metadata and global structure"
+    },
+    {
+      "name": "Navbar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL-optimized navigation bar with business name and links to page sections"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Bold, RTL hero section showcasing the restaurant's main value proposition"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section highlighting the restaurant's story, values and expertise"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Showcase of the restaurant's special services and offerings"
+    },
+    {
+      "name": "MenuHighlightsSection",
+      "type": "menu",
+      "status": "pending",
+      "description": "Featured dishes and menu highlights with visual appeal"
+    },
+    {
+      "name": "GallerySection",
+      "type": "gallery",
+      "status": "pending",
+      "description": "Visual showcase of the restaurant's atmosphere, dishes and events"
+    },
+    {
+      "name": "BookingSection",
+      "type": "booking",
+      "status": "pending",
+      "description": "Interactive booking system with form for reservations"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact information and location details"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Site footer with copyright, links and additional information"
+    }
+  ],
   "repoName": "webis-site-msadh-gma-1746785791778"
 }
