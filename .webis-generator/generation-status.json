@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-05-09T10:25:42.817Z",
+  "projectDir": "מסעדה-גמא-5791",
   "status": {
     "totalComponents": 10,
-    "completedComponents": 9,
+    "completedComponents": 10,
     "failedComponents": 0,
-    "progress": 90
+    "progress": 100
   },
   "components": [
     {
@@ -64,9 +64,14 @@
     {
       "name": "Footer",
       "type": "footer",
-      "status": "pending",
+      "status": "completed",
       "description": "Site footer with copyright, links and additional information"
     }
   ],
-  "repoName": "webis-site-msadh-gma-1746785791778"
+  "tokenUsage": {
+    "totalInputTokens": 21132,
+    "totalOutputTokens": 25087,
+    "totalTokens": 46219,
+    "requests": 10
+  }
 }
