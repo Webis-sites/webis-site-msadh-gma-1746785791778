@@ -23,6 +23,8 @@
 
   --text-primary: #333333;
   --text-secondary: #666666;
+
+  --font-size-base: 1rem;
 }
 
     html {
