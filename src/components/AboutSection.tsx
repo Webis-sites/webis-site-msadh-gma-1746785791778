@@ -1,6 +1,7 @@
 'use client';
 
-import { FC, useEffect, useRef } from 'react';
+import { useEffect, useRef } from 'react';
+import type { FC } from 'react';
 import Image from 'next/image';
 import { motion, useAnimation, useInView } from 'framer-motion';
 
@@ -9,7 +10,7 @@ interface AboutSectionProps {}
 const AboutSection: FC<AboutSectionProps> = () => {
   const controls = useAnimation();
   const ref = useRef(null);
-  const isInView = useInView(ref, { once: true, threshold: 0.2 });
+  const isInView = useInView(ref, { once: true });
 
   useEffect(() => {
     if (isInView) {
