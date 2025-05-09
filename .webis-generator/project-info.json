@@ -1,8 +1,36 @@
 {
   "projectName": "מסעדה-גמא-5791",
   "businessName": "מסעדה גמא",
-  "created": "2025-05-09T10:16:31.833Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "אנחנו מסעדה מוביל בתחום הבידור עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+  "created": "2025-05-09T10:17:24.723Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-msadh-gma-1746785791778",
+  "formData": {
+    "businessName": "מסעדה גמא",
+    "businessType": "מסעדה",
+    "industry": "בריאות",
+    "businessSize": "small",
+    "description": "אנחנו מסעדה מוביל בתחום הבידור עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "he",
+    "primaryColor": "#96CEB4",
+    "secondaryColor": "#FF6B6B",
+    "typographyStyle": "classic",
+    "animationPreference": "bold",
+    "headline": "מסעדה מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": false,
+    "includeFAQ": false,
+    "hasProducts": false,
+    "hasServices": true,
+    "hasPortfolio": true,
+    "needsBookingSystem": true,
+    "metaDescription": "מסעדה מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "מסעדה, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "corporate",
+      "minimalist"
+    ]
+  }
 }
